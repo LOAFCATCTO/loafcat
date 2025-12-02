@@ -1,0 +1,13 @@
+{
+  "name": "LOAFCAT",
+  "symbol": "LOAFCAT",
+  "description": "Community-driven Solana meme token powering the LOAFCAT Telegram Game and LoafBank ecosystem.",
+  "image": "../images/loafcat.png",
+  "extensions": {
+    "website": "https://loafcat.me",
+    "loafbank": "https://loafbank.finance",
+    "x": "https://x.com/loafcathq",
+    "telegram": "https://t.me/loafcatcto",
+    "medium": "https://medium.com/@loafcatcto"
+  }
+}
